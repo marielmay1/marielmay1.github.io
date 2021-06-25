@@ -1,9 +1,36 @@
 .margined {
-    margin-bottom: 20px;
-    padding-bottom: 20px;
+    margin-bottom: 5px;
 }
+body {
+    font-family: 'Jura', sans-serif;
+}
+.card-header {
+    background-color: rosybrown;
+}
+.card {
+    background-color: rosybrown;
+    margin-bottom: 5px;
+}
+#title {
+    color: rosybrown;
+}
+#bio {
+    color: antiquewhite;
+}
+#projects {
+    color: antiquewhite;
+}
+.mt-5 {
+    font-family: 'Jura', sans-serif;
+}
+#skills{
+    font-family: 'Jura', sans-serif;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+a:visited {
+    color: white;
 
-.center-image {
-    left: 50%;
-    top: 50%;
 }
